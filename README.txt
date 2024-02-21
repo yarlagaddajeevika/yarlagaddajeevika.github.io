@@ -1,4 +1,4 @@
-###Jeevika Yarlagadda Portfolio| @jeevikayarlagadda
+ ###Jeevika Yarlagadda Portfolio| @jeevikayarlagadda
 Free for personal and commercial use under the CCA 3.0 license 
 
 ####A quick walkthrough about my Education, work Experience, Skills and Achievements
