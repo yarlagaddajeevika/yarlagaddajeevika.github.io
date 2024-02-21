@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIconFile</key>
+	<string>ApplicationIcon</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.apple.Safari.WebApp.118235E3-0F71-4351-87A5-E8042123F6D4</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>PXL_20221202_012436180.MP.jpg 756×1,008 pixels</string>
+	<key>CFBundlePackageType</key>
+	<string>AAPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleSupportedPlatforms</key>
+	<array>
+		<string>MacOSX</string>
+	</array>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>x-webkit-app-launch</string>
+			</array>
+			<key>LSHandlerRank</key>
+			<string>None</string>
+		</dict>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>14.0</string>
+	<key>LSTemplateApplication</key>
+	<true/>
+	<key>LSTemplateApplicationParameters</key>
+	<dict>
+		<key>CFBundleIdentifier</key>
+		<string>com.apple.Safari.WebApp</string>
+		<key>TemplateAppUUID</key>
+		<string>118235E3-0F71-4351-87A5-E8042123F6D4</string>
+		<key>defaultarguments</key>
+		<true/>
+		<key>teamIdentifier</key>
+		<string>0000000000</string>
+	</dict>
+	<key>Manifest</key>
+	<dict>
+		<key>name</key>
+		<string>PXL_20221202_012436180.MP.jpg 756×1,008 pixels</string>
+		<key>scope</key>
+		<string>https://media.discordapp.net</string>
+		<key>start_url</key>
+		<string>https://media.discordapp.net/attachments/1010984432477425705/1048047628597854268/PXL_20221202_012436180.MP.jpg?ex=65e12eea&amp;is=65ceb9ea&amp;hm=ce125363281a50d9ea569a18e0b776b9dfb5a0d6f213df805a581c97119fae90&amp;</string>
+	</dict>
+	<key>WKManifestIsSynthesized</key>
+	<true/>
+	<key>WKPushBundleMetadata</key>
+	<dict>
+		<key>manifestId</key>
+		<string>https://media.discordapp.net/attachments/1010984432477425705/1048047628597854268/PXL_20221202_012436180.MP.jpg?ex=65e12eea&amp;is=65ceb9ea&amp;hm=ce125363281a50d9ea569a18e0b776b9dfb5a0d6f213df805a581c97119fae90&amp;</string>
+	</dict>
+</dict>
+</plist>
